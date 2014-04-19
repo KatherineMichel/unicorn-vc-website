@@ -10,7 +10,7 @@ body {
   background-size: cover;
 }*//
 
-.navbar {
+.navbar-default {
     background-color: #99B2FF !important;
     border-color: #99B2FF !important;
 }
