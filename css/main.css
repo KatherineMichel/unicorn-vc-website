@@ -10,11 +10,11 @@ body {
   background-size: cover;
 }*//
 
-.navbar-default {
+.navbar {
     background-color: #99B2FF !important;
     border-color: #99B2FF !important;
 }
 
-.page-header {
+/*.page-header {
     border-bottom: 1px solid #E0F5FF !important;
 }
