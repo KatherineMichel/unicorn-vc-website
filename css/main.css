@@ -2,17 +2,17 @@ body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
-body {
+//*body {
   background: url(../images/image15.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+}*//
 
 .navbar-default {
-    background-color: #EBD6FF !important;
-    border-color: #EBD6FF !important;
+    background-color: #99B2FF !important;
+    border-color: #99B2FF !important;
 }
 
 .page-header {
