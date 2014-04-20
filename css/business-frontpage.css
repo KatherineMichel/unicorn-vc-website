@@ -3,7 +3,7 @@ body {
 }
 
 /* change the URL to a picture of your choice - the higher quality the better! */
-.business-header-1 {
+.business-header {
 	height: 400px;
 	background: url(img/image7.jpg) center center no-repeat;
 	background-size: cover;
