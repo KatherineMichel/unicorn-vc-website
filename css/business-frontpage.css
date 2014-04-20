@@ -3,9 +3,21 @@ body {
 }
 
 /* change the URL to a picture of your choice - the higher quality the better! */
-.business-header {
+.business-header-1 {
 	height: 400px;
-	background: url(http://placehold.it/1920x400) center center no-repeat;
+	background: url(img/image7.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+.business-header-2 {
+	height: 400px;
+	background: url(img/image12.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+.business-header-3 {
+	height: 400px;
+	background: url(img/image8.jpg) center center no-repeat;
 	background-size: cover;
 }
 
