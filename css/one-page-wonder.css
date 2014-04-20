@@ -10,12 +10,13 @@ body {
   background-size: cover;
 }*//
 
-.business-header {
+.header {
 	height: 400px;
-	background: url(../img/image7.jpg) center center no-repeat;
+  	background: url(../img/image7.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
 
+  //*margin-bottom: 60px;//*
 
 //*.navbar-default {
     background-color: #99B2FF !important;
