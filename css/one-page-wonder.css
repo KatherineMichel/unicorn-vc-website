@@ -2,13 +2,20 @@ body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
-body {
+//*body {
   background: url(../img/image7.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}*//
+
+.business-header {
+	height: 400px;
+	background: url(../img/image7.jpg) center center no-repeat;
+	background-size: cover;
 }
+
 
 //*.navbar-default {
     background-color: #99B2FF !important;
