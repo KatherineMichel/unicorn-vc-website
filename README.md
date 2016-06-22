@@ -1,2 +1,3 @@
-unicorn-vc-website
-==================
+# Unicorn VC Website
+
+A Bootstrap prototype
