@@ -2,13 +2,13 @@ body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
-//*body {
+/*body {
   background: url(../img/image7.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}*//
+}*/
 
 .header {
 	height: 400px;
@@ -16,18 +16,18 @@ body {
 	background-size: cover;
 }
 
-  //*margin-bottom: 60px;//*
+  /*margin-bottom: 60px;*/
 
-//*.navbar-default {
+/*.navbar-default {
     background-color: #99B2FF !important;
     border-color: #99B2FF !important;
-}*
+}*/
 
-.page-header {
+/*.page-header {
     border-bottom: 1px solid #E0F5FF !important;
-}*//
+}*/
 
-//*One-page Wonder*//
+/*One-page Wonder*/
 
 .header-image {
 	background: url(http://placehold.it/200x300) repeat;/* Use a tiling background image or a full width image - if you're using full width you will need to change no-repeat center center cover  */
