@@ -6,13 +6,13 @@ html, body {
 	height:100%;
 }
 
-.carousel {
+.photo {
 	height:75%;
 }
 
 .item,
 .active,
-.carousel-inner {
+.photo-inner {
 	height:100%;
 }
 
